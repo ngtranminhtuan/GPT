@@ -1,5 +1,5 @@
 
-# LLM homework - based on nanoGPT
+# LLM - based on nanoGPT
 
 ## install requirements
 
